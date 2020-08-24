@@ -1,40 +1,40 @@
 {
 	"banners": [
 		{
-			"src": "../img/hero-1.jpg", 
-			"title": "THE BEST GYM<br>YOU WILL EVER FIND", 
-			"desc": "FREE 30 DAY TRIAL",
+			"src": "../img/s.jpg", 
+			"title": "J12 20 Limited Edition", 
+			"desc": "2020 PEACE EDITION WITH CHANEL CMBLEM",
 			"class": "type-c", 
 			"buttons": [
-				{"title": "GIVE IT A TRY NOW", "link": "#", "class": "bt-ghost"}
+				{"title": "VIEW DETAIL NOW", "link": "#", "class": "bt-ghost"}
 			]
 		},
 		{
-			"src": "../img/hero-2.jpg",
-			"title": "FIGHT THE WEAKNESS", 
-			"desc": "WE GO THE JOURNEY WITH YOU",
-			"class": "type-c", 
+			"src": "../img/s2.jpg",
+			"title": "Baladeen Méditerranée", 
+			"desc": "Baladeen Méditerranée",
+			"class": "type-a", 
 			"buttons": [
 				{"title": "PRICING", "link": "#", "class": "bt-orange"},
 				{"title": "LEARN MORE", "link": "#", "class": "bt-gray"}
 			]
 		},
 		{
-			"src": "../img/hero-3.jpg",
-			"title": "HAVE FUN IN GROUPS", 
+			"src": "../img/s3.jpg",
+			"title": "Satin Chamelabag", 
 			"desc": "STAY MOTIVATED AND FIND NEW FRIENDS",
-			"class": "type-c", 
+			"class": "type-a", 
 			"buttons": [
 				{"title": "SEE OUR CLASSES", "link": "#", "class": "bt-ghost"}
 			]
 		},
 		{
-			"src": "../img/hero-4.jpg",
-			"title": "PERSONAL TRAINING", 
-			"desc": "GET IN SHAPE WITH THE HELP OF A COACH",
+			"src": "../img/s4.jpg",
+			"title": "Refinement of Tweed Jacket", 
+			"desc": "CREATES A CLEAN THE CHIC ATMOSPHERE",
 			"class": "type-l", 
 			"buttons": [
-				{"title": "BOOK NOW", "link": "#", "class": "bt-ghost"}
+				{"title": "BUY NOW", "link": "#", "class": "bt-ghost"}
 			]
 		}
 	]
